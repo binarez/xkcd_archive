@@ -2,7 +2,7 @@
 
 An archive of the excellent xkcd web comic.
 
-Comic #1 to #1959
+Comic #1 (Jan 1 2006) to #1959 (Feb 23 2018)
 
 Direct download : https://github.com/binarez/xkcd_archive/archive/master.zip
 
