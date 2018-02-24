@@ -4,6 +4,7 @@ An archive of the excellent xkcd web comic.
 
 Comic #1 to #1959
 
-https://xkcd.com
+Direct download : https://github.com/binarez/xkcd_archive/archive/master.zip
 
-https://xkcd.com/license.html
+Source : https://xkcd.com
+License : https://xkcd.com/license.html
