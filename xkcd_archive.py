@@ -85,7 +85,7 @@ with requests.Session() as session:
 		try:
 			comic_url = 'https:' + comic_image['src']
 			download_image(session, comic_url,
-							'xkcd.' + str(comic_num) + '.' +  comic.get('title') + '.' + os.path.basename(comic_url))
+							'xkcd.' + str(comic_num).zfill(4) + '.' +  comic.get('title') + '.' + os.path.basename(comic_url))
 		except requests.exceptions.MissingSchema:
 			print('--- Missing comic ' + str(comic_num))
 			continue  # skip this comic
