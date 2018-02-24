@@ -1,0 +1,7 @@
+Online only.
+
+Pixels
+https://xkcd.com/1416/
+
+In this strip, when you zoom into the panel, each pixel becomes its own panel. Each of those panels can be scrolled into, for the same effect. The story progresses as you scroll deeper.
+
