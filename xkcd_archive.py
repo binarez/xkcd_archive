@@ -49,11 +49,11 @@ while True:
 start = time.time()
 
 
-os.makedirs('xkcd_archive', exist_ok=True)   # store comics in ./xkcd
+os.makedirs('xkcd', exist_ok=True)   # store comics in ./xkcd
 
 
 def download_image(session, url, filename):
-	with open(os.path.join('xkcd_archive', filename), 'xb') as image_file:
+	with open(os.path.join('xkcd', filename), 'xb') as image_file:
 		print('Downloading image ' + filename)
 		res = session.get(url)
 		res.raise_for_status()
