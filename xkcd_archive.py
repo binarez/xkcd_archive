@@ -60,6 +60,11 @@ def download_image(session, url, filename):
 		for chunk in res.iter_content(100000):
 			image_file.write(chunk)
 
+def write_alttext(alt_text, alt_text_filename):
+	with open(os.path.join('xkcd', alt_text_filename), 'xb') as alt_text_file:
+		print('Writing alt-text ' + alt_text_filename)
+		alt_text_file.write(alt_text.encode())
+
 # Get latest comic number:
 url = 'https://xkcd.com/archive/'
 res = requests.get(url)
@@ -82,10 +87,19 @@ with requests.Session() as session:
 			print('Could not find comic image #' + str(comic_num))
 			continue
 
+		comic_url = 'https:' + comic_image['src']
+		img_filename = 'xkcd.' + str(comic_num).zfill(4) + '.' +  comic.get('title') + '.' + os.path.basename(comic_url)
+
 		try:
-			comic_url = 'https:' + comic_image['src']
-			download_image(session, comic_url,
-							'xkcd.' + str(comic_num).zfill(4) + '.' +  comic.get('title') + '.' + os.path.basename(comic_url))
+			alt_text = comic_image['title']
+			write_alttext(alt_text, os.path.splitext(img_filename)[0] + '.alt-text.txt' )
+		except KeyError:
+			print('--- Missing alt-text ' + str(comic_num))
+		except FileExistsError:
+			pass
+
+		try:
+			download_image(session, comic_url, img_filename)
 		except requests.exceptions.MissingSchema:
 			print('--- Missing comic ' + str(comic_num))
 			continue  # skip this comic
