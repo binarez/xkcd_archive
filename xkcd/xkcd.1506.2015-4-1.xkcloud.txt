@@ -1,0 +1,15 @@
+Online only.
+
+xkcloud
+https://www.xkcd.com/1506/
+
+In this interactive April Fools' Day comic Cueball, presumably representing Randall, admits to the readers he built a flimsy cloud services company using spare computers and parts. Included in the cloud hardware are (from left to right) a Macintosh Classic, several old laptops, an Alienware tower, a Nintendo VirtualBoy, an old desktop with the cover off, and an Atari Pong Console.
+
+He named the company after xkcd, xkcloud being a portmanteau of "xkcd" and "cloud", here pronounced XK-cloud. The portmanteau incidentally still contains all four xkcd letters in the correct order: xkcLOUd.
+
+After providing his services to various (very big) companies (Facebook, Twitter and Tumblr), that are very concerned with securing the users data, his setup failed (some portions may even have caught fire? He is not sure). This has caused him to lose the data he was required to preserve as part of his service. He thus requests the readers help to make up and re-imagine the lost data by pressing the large red button at the bottom of the comic. Preferably before Facebook & Co notice we lost it.
+
+If the you take him up on his request and pushes the button you will be taken to a "survey" where you will get the chance to help by either trying to combine a posted picture with its lost text or, vice versa, by trying to combine a posted text with its lost picture. In either case you get a selection of texts/pictures to choose from but can also choose to write your own text or even draw the picture. After doing this you get to see this combination in the news feed together with several other posts (which other people have helped combine from other lost data). And then you can continue helping as long as you like.
+
+The content of the "surveys" appear to come from reader submissions, and are different upon every click. This is thus both an interactive and a dynamic comic with only the first picture shown on top of this page. By inviting the xkcd readers to add content that will be displayed in the comic later, the result of all the interactions leads to the generation of crowd-sourced content. 
+https://www.explainxkcd.com/wiki/index.php/1506:_xkcloud

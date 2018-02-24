@@ -1,0 +1,8 @@
+Online only.
+
+Frequency
+https://xkcd.com/1331/
+
+This comic shows a number of common events, arranged in a grid. Each of the events flashes with its average frequency.
+
+For example, statistically a child is born somewhere on the world approximately every 0.24 seconds, or four times per second. Therefore, the tile "One birth" blinks about 4 times per second. 
