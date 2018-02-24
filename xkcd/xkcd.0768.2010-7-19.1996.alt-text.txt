@@ -1,0 +1,1 @@
+College Board issues aside, I have fond memories of TI-BASIC, writing in it a 3D graphing engine and a stock market analyzer. With enough patience, I could make anything ... but friends. (Although with my chatterbot experiments, I certainly tried.)

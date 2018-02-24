@@ -1,0 +1,1 @@
+This map preserves the shapes of Tissot's indicatrices pretty well, as long as you draw them in before running the resize.

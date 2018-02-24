@@ -1,0 +1,1 @@
+StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.

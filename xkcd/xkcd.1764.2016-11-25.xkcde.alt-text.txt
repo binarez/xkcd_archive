@@ -1,0 +1,1 @@
+4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land

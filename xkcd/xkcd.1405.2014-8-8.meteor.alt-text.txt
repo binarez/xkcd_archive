@@ -1,0 +1,1 @@
+No, only LAVA is called 'magma' while underground. Any other object underground is called 'lava'.

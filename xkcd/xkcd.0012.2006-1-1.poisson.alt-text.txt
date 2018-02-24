@@ -1,0 +1,1 @@
+Poisson distributions have no value over negative numbers

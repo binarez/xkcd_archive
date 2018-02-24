@@ -1,0 +1,1 @@
+It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.

@@ -1,0 +1,1 @@
+I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you.

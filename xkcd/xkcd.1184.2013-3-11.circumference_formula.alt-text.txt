@@ -1,0 +1,1 @@
+Assume r' refers to the radius of Earth Prime, and r'' means radius in inches.

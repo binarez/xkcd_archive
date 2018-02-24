@@ -1,0 +1,1 @@
+If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.

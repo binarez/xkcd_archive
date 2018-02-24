@@ -1,0 +1,1 @@
+I have never been lied to by data in a .txt file which has been hand-aligned.

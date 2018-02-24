@@ -1,0 +1,1 @@
+Theory: Smugness is proportional to the negative second derivative of TV ownership rate with respect to time.

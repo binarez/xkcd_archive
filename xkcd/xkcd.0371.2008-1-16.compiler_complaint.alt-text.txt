@@ -1,0 +1,1 @@
+Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.

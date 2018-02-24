@@ -1,0 +1,1 @@
+If data fails the Teacher's t test, you can just force it to take the test again until it passes.

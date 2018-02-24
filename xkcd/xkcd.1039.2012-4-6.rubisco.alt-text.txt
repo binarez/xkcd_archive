@@ -1,0 +1,1 @@
+Bruce Schneier believes safewords are fundamentally insecure and recommends that you ask your partner to stop via public key signature.

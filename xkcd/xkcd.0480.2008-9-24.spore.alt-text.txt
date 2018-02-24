@@ -1,0 +1,1 @@
+Way to not support the GMA 950 under OS X, Spore.  :(

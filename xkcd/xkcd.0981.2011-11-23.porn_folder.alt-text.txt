@@ -1,0 +1,1 @@
+Eww, gross, you modified link()? How could you enjoy abusing a filesystem like that?

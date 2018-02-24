@@ -1,0 +1,1 @@
+I liked the idea, suggested by h00k on bash.org, of a Twitter bot that messages prominent politicians to tell them when they've unnecessarily used sms-speak abbreviations despite having plenty of characters left.

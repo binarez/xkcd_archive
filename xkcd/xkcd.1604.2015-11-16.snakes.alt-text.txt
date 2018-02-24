@@ -1,0 +1,1 @@
+The last band of color indicates the snake's tolerance for being held before biting.

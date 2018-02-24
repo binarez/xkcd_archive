@@ -1,0 +1,1 @@
+The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.

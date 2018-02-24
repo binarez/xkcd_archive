@@ -1,0 +1,1 @@
+To generate #1 albums, 'jay --help' recommends the -z flag.

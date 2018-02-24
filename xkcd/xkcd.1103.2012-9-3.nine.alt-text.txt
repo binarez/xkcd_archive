@@ -1,0 +1,1 @@
+FYI: If you get curious and start trying to calculate the time adjustment function that minimizes the gap between the most-used and least-used digit (for a representative sample of common cook times) without altering any time by more than 10%, and someone asks you what you're doing, it's easier to just lie.

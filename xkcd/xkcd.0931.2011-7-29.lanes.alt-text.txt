@@ -1,0 +1,1 @@
+Each quarter of the lanes from left to right correspond loosely to breast cancer stages one through four (at diagnosis).
